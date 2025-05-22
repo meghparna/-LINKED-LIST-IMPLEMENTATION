@@ -21,3 +21,4 @@ Moreover, this task strengthened my problem-solving skills, as I had to think cr
 Overall, this internship task on linked list implementation has provided me with a strong foundation in data structures and C programming, which will be invaluable in my future studies and career as a software developer. It also enhanced my ability to work with fundamental concepts that underpin more complex programming challenges, making me more confident in tackling large-scale projects.
 
 ##OUTPUT
+![Image](https://github.com/user-attachments/assets/1e8c23e1-3adc-464b-b83b-ce1f73f18931)
